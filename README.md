@@ -6,10 +6,10 @@ Desenvolvimento de um simples projeto CRUD () utilizando o acesso a banco de dad
 ## Configuração do Projeto:
 *    Executar a query dump.sql ou importar o arquivo no phpMyAdmin para criar a table necessária.
 *    Editar o arquivo conexao.php
-* $dbNome = 'nomeDaTable' 
-* $dbHost = 'nomeDoDominioOuIP:Porta' 
-* $dbUsuario = 'usuarioDoMysql' 
-* $dbSenha 'senhaDoUsuario'
+* $servername = 'nomeDaTable' 
+* $database = 'nomeDoDominioOuIP:Porta' 
+* $username = 'usuarioDoMysql' 
+* $password 'senhaDoUsuario'
 ## Tecnologias
 *    HTML
 *    CSS
