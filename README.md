@@ -15,5 +15,4 @@ Desenvolvimento de um simples projeto CRUD () utilizando o acesso a banco de dad
 *    CSS
 *    PHP
 *    MySQL
-*    JavaScript
 *    Uso do framework Bootstrap para realização de um layout responsivo para o projeto.
