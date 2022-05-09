@@ -14,7 +14,7 @@
                     <div class="card-body">
                         <h5 class="card-title">DQCMODEL</h5>
                         <p class="card-text">Tabela DCQMODEL</p>
-                        <a href="listar_dqcmodel.php" class="btn btn-primary">Acessar</a>
+                        <a href="DQCMODEl/listar_dqcmodel.php" class="btn btn-primary">Acessar</a>
                     </div>
                 </div>
             </div>
@@ -23,7 +23,7 @@
                     <div class="card-body">
                         <h5 class="card-title">DQC84</h5>
                         <p class="card-text">Tabela DQC84</p>
-                        <a href="listar_dqc84.php" class="btn btn-primary">Acessar</a>
+                        <a href="DQC84/listar_dqc84.php" class="btn btn-primary">Acessar</a>
                     </div>
                 </div>
             </div>
@@ -32,7 +32,7 @@
                     <div class="card-body">
                         <h5 class="card-title">DQC841</h5>
                         <p class="card-text">Tabela DQC841</p>
-                        <a href="listar_dqc841.php" class="btn btn-primary">Acessar</a>
+                        <a href="DQC841/listar_dqc841.php" class="btn btn-primary">Acessar</a>
                     </div>
                 </div>
             </div>

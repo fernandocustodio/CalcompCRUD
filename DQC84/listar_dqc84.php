@@ -9,7 +9,7 @@
 
 <div class="container" style="margin-top: 40px">
         <div style="text-align: right;">
-            <a href="index.php" role="button" class="btn btn-sm btn-secondary">Voltar</a>
+            <a href="../index.php" role="button" class="btn btn-sm btn-secondary">Voltar</a>
         </div> 
     <h3>Lista da DQC84</h3>
     <br />
@@ -26,7 +26,7 @@
     </thead>
         
         <?php
-            include 'conexao.php';
+            include '../conexao.php';
              $sql= "SELECT * FROM `dqc84`";
              $busca = mysqli_query($conexao, $sql);
 

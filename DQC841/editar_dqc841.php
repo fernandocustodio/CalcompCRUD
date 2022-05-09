@@ -1,6 +1,6 @@
 <?php
 
-include 'conexao.php';
+include '../conexao.php';
     $ID = $_GET['ID'];
 
 ?>
@@ -74,7 +74,7 @@ include 'conexao.php';
                 <input type="text" class="form-control" name="REF_DESIGNATOR" autocomplete="off" value="<?php echo $REF_DESIGNATOR?>">
             </div>
             <div style="text-align: right;">
-                <button type="submit" class="btn btn-success btn-sm">Cadastrar</button>
+                <button type="submit" class="btn btn-success btn-sm">Atualizar</button>
             </div>   
             
             <?php } ?>

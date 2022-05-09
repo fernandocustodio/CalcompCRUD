@@ -1,5 +1,5 @@
 <?php
-    include 'conexao.php';
+    include '../conexao.php';
 
     $ID = $_POST['ID'];
     $MODEL = $_POST['MODEL'];

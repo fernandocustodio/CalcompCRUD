@@ -1,6 +1,6 @@
 <?php
 
-include 'conexao.php';
+include '../conexao.php';
 
 $FAT_PART_NO = $_POST['FAT_PART_NO'];
 $PARTS_NO = $_POST['PARTS_NO'];

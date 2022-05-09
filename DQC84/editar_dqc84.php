@@ -1,6 +1,6 @@
 <?php
 
-include 'conexao.php';
+include '../conexao.php';
     $ID = $_GET['ID'];
 
 ?>
@@ -64,7 +64,7 @@ include 'conexao.php';
                 <input type="number" class="form-control" name="TOTAL_LOCATION" autocomplete="off" value="<?php echo $TOTAL_LOCATION?>">
             </div>
             <div style="text-align: right;">
-                <button type="submit" class="btn btn-success btn-sm">Cadastrar</button>
+                <button type="submit" class="btn btn-success btn-sm">Atualizar</button>
             </div>   
             
             <?php } ?>

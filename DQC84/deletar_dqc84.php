@@ -1,8 +1,8 @@
 <?php
-    include 'conexao.php';
+    include '../conexao.php';
     $ID = $_GET['ID'];
     
-    $sql = "DELETE FROM `dqc841` WHERE ID = $ID";
+    $sql = "DELETE FROM `dqc84` WHERE ID = $ID";
     $deletar = mysqli_query($conexao,$sql);
 
 ?>
@@ -12,7 +12,7 @@
     <center>
         <h3>Deletado com sucesso</h3>
         <div style="margin-top: 10px">
-            <a href="listar_dqc841.php" class="btn btn-warning" style="color:#fff">Voltar</a>
+            <a href="listar_dqc84.php" class="btn btn-warning" style="color:#fff">Voltar</a>
         </div>
     </center>
 </div>

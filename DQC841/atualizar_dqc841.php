@@ -1,5 +1,5 @@
 <?php
-    include 'conexao.php';
+    include '../conexao.php';
 
     $ID = $_POST['ID'];
     $FAT_PART_NO = $_POST['FAT_PART_NO'];
